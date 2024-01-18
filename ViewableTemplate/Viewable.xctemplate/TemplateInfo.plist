@@ -41,6 +41,8 @@
 			<string>UIView:</string>
 			<key>Type</key>
 			<string>static</string>
+			<key>NotPersisted</key>
+			<true/>
 			<key>Default</key>
 			<string>___VARIABLE_productName:identifier___View</string>
 		</dict>
@@ -51,6 +53,8 @@
 			<string>UIViewController:</string>
 			<key>Type</key>
 			<string>static</string>
+			<key>NotPersisted</key>
+			<true/>
 			<key>Default</key>
 			<string>___VARIABLE_productName:identifier___ViewController</string>
 		</dict>
